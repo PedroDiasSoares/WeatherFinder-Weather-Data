@@ -1,7 +1,16 @@
 {
   "schemaVersion": 1,
-  "locationSetHash": null,
-  "publishedAt": null,
-  "core": null,
+  "locationSetHash": "d8581ba6e6f3edf3685c9f91f63ada8b06a538dd5af358202999205420e3d549",
+  "publishedAt": "2026-08-03T20:38:59.083Z",
+  "core": {
+    "generatedAt": "2026-08-03T20:38:59.083Z",
+    "startDate": "2026-08-03",
+    "endDate": "2026-08-13",
+    "locationCount": 5120,
+    "rowCount": 51200,
+    "bytes": 5731621,
+    "sha256": "5e446f45b12428c11387486d47e0314a629af96b97dc72644366f2b7d686844b",
+    "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-core-10d-20260803T203859Z.json"
+  },
   "extension": null
 }
