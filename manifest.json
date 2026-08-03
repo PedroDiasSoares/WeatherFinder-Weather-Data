@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "locationSetHash": "d8581ba6e6f3edf3685c9f91f63ada8b06a538dd5af358202999205420e3d549",
   "publishedAt": "2026-08-03T20:38:59.083Z",
   "core": {
@@ -12,5 +12,4659 @@
     "sha256": "5e446f45b12428c11387486d47e0314a629af96b97dc72644366f2b7d686844b",
     "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-core-10d-20260803T203859Z.json"
   },
-  "extension": null
+  "extension": null,
+  "overview": {
+    "core": {
+      "generatedAt": "2026-08-03T20:38:59.083Z",
+      "startDate": "2026-08-03",
+      "endDate": "2026-08-13",
+      "locationCount": 243,
+      "rowCount": 2430,
+      "bytes": 296496,
+      "sha256": "d7d44cc9a99dc4cb58cbbd27d525ded196d2014ffd3e2cd0353b2379b3a3ac1b",
+      "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-overview-core-10d-20260803T203859Z.json"
+    },
+    "extension": null
+  },
+  "continents": {
+    "Africa": [
+      "AO",
+      "BF",
+      "BI",
+      "BJ",
+      "BW",
+      "CD",
+      "CF",
+      "CG",
+      "CI",
+      "CM",
+      "CV",
+      "DJ",
+      "DZ",
+      "EG",
+      "EH",
+      "ER",
+      "ET",
+      "GA",
+      "GH",
+      "GM",
+      "GN",
+      "GQ",
+      "GW",
+      "KE",
+      "KM",
+      "LR",
+      "LS",
+      "LY",
+      "MA",
+      "MG",
+      "ML",
+      "MR",
+      "MU",
+      "MW",
+      "MZ",
+      "NA",
+      "NE",
+      "NG",
+      "RE",
+      "RW",
+      "SC",
+      "SD",
+      "SH",
+      "SL",
+      "SN",
+      "SO",
+      "SS",
+      "ST",
+      "SZ",
+      "TD",
+      "TG",
+      "TN",
+      "TZ",
+      "UG",
+      "YT",
+      "ZA",
+      "ZM",
+      "ZW"
+    ],
+    "Antarctica": [
+      "GS",
+      "TF"
+    ],
+    "Asia": [
+      "AE",
+      "AF",
+      "AM",
+      "AZ",
+      "BD",
+      "BH",
+      "BN",
+      "BT",
+      "CC",
+      "CN",
+      "CX",
+      "GE",
+      "HK",
+      "ID",
+      "IL",
+      "IN",
+      "IO",
+      "IQ",
+      "IR",
+      "JO",
+      "JP",
+      "KG",
+      "KH",
+      "KP",
+      "KR",
+      "KW",
+      "KZ",
+      "LA",
+      "LB",
+      "LK",
+      "MM",
+      "MN",
+      "MV",
+      "MY",
+      "NP",
+      "OM",
+      "PH",
+      "PK",
+      "PS",
+      "QA",
+      "RU",
+      "SA",
+      "SG",
+      "SY",
+      "TH",
+      "TJ",
+      "TM",
+      "TR",
+      "TW",
+      "UZ",
+      "VN",
+      "YE"
+    ],
+    "Europe": [
+      "AD",
+      "AL",
+      "AT",
+      "AZ",
+      "BA",
+      "BE",
+      "BG",
+      "BY",
+      "CH",
+      "CY",
+      "CZ",
+      "DE",
+      "DK",
+      "EE",
+      "ES",
+      "FI",
+      "FO",
+      "FR",
+      "GB",
+      "GG",
+      "GI",
+      "GR",
+      "HR",
+      "HU",
+      "IE",
+      "IS",
+      "IT",
+      "JE",
+      "LI",
+      "LT",
+      "LU",
+      "LV",
+      "MC",
+      "MD",
+      "ME",
+      "MK",
+      "MT",
+      "NL",
+      "NO",
+      "PL",
+      "PT",
+      "RO",
+      "RS",
+      "RU",
+      "SE",
+      "SI",
+      "SJ",
+      "SK",
+      "SM",
+      "TR",
+      "UA",
+      "VA",
+      "XK"
+    ],
+    "North America": [
+      "AG",
+      "AI",
+      "AW",
+      "BB",
+      "BL",
+      "BM",
+      "BQ",
+      "BS",
+      "BZ",
+      "CA",
+      "CR",
+      "CU",
+      "CW",
+      "DM",
+      "DO",
+      "GD",
+      "GL",
+      "GP",
+      "GT",
+      "HN",
+      "HT",
+      "JM",
+      "KN",
+      "KY",
+      "LC",
+      "MF",
+      "MQ",
+      "MS",
+      "MX",
+      "NI",
+      "PA",
+      "PM",
+      "PR",
+      "SV",
+      "SX",
+      "TC",
+      "TT",
+      "US",
+      "VC",
+      "VG",
+      "VI"
+    ],
+    "Oceania": [
+      "AS",
+      "AU",
+      "CK",
+      "FJ",
+      "FM",
+      "GU",
+      "KI",
+      "MH",
+      "MP",
+      "NC",
+      "NF",
+      "NR",
+      "NU",
+      "NZ",
+      "PF",
+      "PG",
+      "PN",
+      "PW",
+      "SB",
+      "TK",
+      "TL",
+      "TO",
+      "TV",
+      "VU",
+      "WF",
+      "WS"
+    ],
+    "South America": [
+      "AR",
+      "BO",
+      "BR",
+      "CL",
+      "CO",
+      "EC",
+      "FK",
+      "GF",
+      "GY",
+      "PE",
+      "PY",
+      "SR",
+      "UY",
+      "VE"
+    ]
+  },
+  "countries": {
+    "AD": {
+      "country": "Andorra",
+      "countryCode": "AD",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8778,
+        "sha256": "e9c907db525855e9dbdf81bddd5414a1004414f5992ecb0f254c94f197795980",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-AD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AE": {
+      "country": "United Arab Emirates",
+      "countryCode": "AE",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8641,
+        "sha256": "654854ef84fe487108bfb14b3fe52246b494cb0b4aa8c2fe19a64ff795752244",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-AE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AF": {
+      "country": "Afghanistan",
+      "countryCode": "AF",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 34,
+        "rowCount": 340,
+        "bytes": 37639,
+        "sha256": "67cf9470f53ec474788c56b2a20f4cbf45246704f020aa931de4ccdcb7ae45c7",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-AF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AG": {
+      "country": "Antigua and Barbuda",
+      "countryCode": "AG",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 8,
+        "rowCount": 80,
+        "bytes": 8478,
+        "sha256": "6c7bca4b39c6b8fa66f6252269e9f3fe347ce43c6debd13d98c73c6b91cf79b9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-AG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AI": {
+      "country": "Anguilla",
+      "countryCode": "AI",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14640,
+        "sha256": "d8804f3f7f9f5bceed8a3e21b4bbb4417796c09a18d34315a568b49a7d4195d2",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-AI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AL": {
+      "country": "Albania",
+      "countryCode": "AL",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 12888,
+        "sha256": "b39015c463426d56bc143bab5ff5dd98e4468ed1cb3c63b169fb9ea360663a50",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-AL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AM": {
+      "country": "Armenia",
+      "countryCode": "AM",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 11511,
+        "sha256": "fa65c237d5425ad28bf7706aac0605e6f23f5a3bde403d774f88c0805ac8ecba",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-AM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AO": {
+      "country": "Angola",
+      "countryCode": "AO",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 21654,
+        "sha256": "1fab73b1a6fdef30676e9a26beeac667c57b773cf1f064cc9a1efd712068af37",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-AO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AR": {
+      "country": "Argentina",
+      "countryCode": "AR",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 24,
+        "rowCount": 240,
+        "bytes": 28958,
+        "sha256": "a988ef8468f25815f1288d3645401d4e35f3c8f571f2484872fd8073ca94e6da",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-AR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AS": {
+      "country": "American Samoa",
+      "countryCode": "AS",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6375,
+        "sha256": "141a5a40f8d6e76a4060d56fde14b53140276d7a5008dad792c4559902835db1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-AS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AT": {
+      "country": "Austria",
+      "countryCode": "AT",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 36,
+        "rowCount": 360,
+        "bytes": 37231,
+        "sha256": "80041bbbce5c5dad7508655d9130a525ff079d823ccfb982720fd5785afcb41c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-AT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AU": {
+      "country": "Australia",
+      "countryCode": "AU",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 32,
+        "rowCount": 320,
+        "bytes": 38570,
+        "sha256": "68461e4a4394509da9e86199e6c66202c4a21dd95b380129c474fa05075d3969",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-AU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AW": {
+      "country": "Aruba",
+      "countryCode": "AW",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1367,
+        "sha256": "abeef38d23815d2ca566145476e80a26ccddf6173242d5435f72ef051fb1e888",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-AW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "AZ": {
+      "country": "Azerbaijan",
+      "countryCode": "AZ",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 71,
+        "rowCount": 710,
+        "bytes": 72692,
+        "sha256": "fdb8c68e9cbb7454aa9a71407ee45f251c38ea9e4e62a5a87a1f6a94d292090c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-AZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BA": {
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BA",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 14575,
+        "sha256": "9b4d49ad2bd154014382b826ac710abd78d7ec4d08a8bdbc089390d254bba537",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-BA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BB": {
+      "country": "Barbados",
+      "countryCode": "BB",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 11482,
+        "sha256": "4525f14fecf02ea0a26494a3040bb4b10895915c2e02e0f175e5487aedf499eb",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-BB-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BD": {
+      "country": "Bangladesh",
+      "countryCode": "BD",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 64,
+        "rowCount": 640,
+        "bytes": 80147,
+        "sha256": "789b7cd840626edbf262b1ae098752132931e7348f24bf0538ffe4c0bf20d088",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-BD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BE": {
+      "country": "Belgium",
+      "countryCode": "BE",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 11575,
+        "sha256": "76a173cfed8d6d32fd7a52877c2c19fac9829cfa2a3ceadade6800abfee94326",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-BE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BF": {
+      "country": "Burkina Faso",
+      "countryCode": "BF",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 45,
+        "rowCount": 450,
+        "bytes": 51083,
+        "sha256": "b478d3a4c8931b8f276bf4155db0ff450d7f58cc1a51c39ddc5c61682d01dcf4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-BF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BG": {
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 28,
+        "rowCount": 280,
+        "bytes": 32861,
+        "sha256": "bfed6105705090a53cf14751be0b20e384cda159bb90c0cfc165465d7bf6b04e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-BG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BH": {
+      "country": "Bahrain",
+      "countryCode": "BH",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 4,
+        "rowCount": 40,
+        "bytes": 5051,
+        "sha256": "7dc41ef3545a13545b108a5d36130e19e6d4d85488da62fc4362a28d52767dfd",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-BH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BI": {
+      "country": "Burundi",
+      "countryCode": "BI",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 19370,
+        "sha256": "dcbf0f4dc9ae27670da8e6244c686278264d4ec6f76bbfd388c349200cdbc6e5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-BI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BJ": {
+      "country": "Benin",
+      "countryCode": "BJ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 14215,
+        "sha256": "512e5d911b6468eeeead74452ad73ca876e665f268c38430fbe8e8c9465835e7",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-BJ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BL": {
+      "country": "Saint Barthélemy",
+      "countryCode": "BL",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1379,
+        "sha256": "816e86dff0626fb4b04a53d5e0e30c8889e27efb16ce80383d4cd46f2b1a350c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-BL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BM": {
+      "country": "Bermuda",
+      "countryCode": "BM",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 13732,
+        "sha256": "be49b0891baf10ca8335c2815c732fab2b2a833f9529223088ad9b2d81a0b748",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-BM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BN": {
+      "country": "Brunei",
+      "countryCode": "BN",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 4,
+        "rowCount": 40,
+        "bytes": 4401,
+        "sha256": "aafab77e44bc82976defdf24fae2c9a621b74fa23fe64eb1c4ed28d6f619c615",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-BN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BO": {
+      "country": "Bolivia",
+      "countryCode": "BO",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 9,
+        "rowCount": 90,
+        "bytes": 11110,
+        "sha256": "8c28d8d2a9144f9271fe5897dcdbd3362f092bbfc5e9e59cb04bf2dd87e960fb",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-BO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BQ": {
+      "country": "Caribbean Netherlands",
+      "countryCode": "BQ",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3609,
+        "sha256": "d70319d279e23242df027b78ba2f2da7ab1973ac7f86a4959f402a3bf01bad2f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-BQ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BR": {
+      "country": "Brazil",
+      "countryCode": "BR",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 27,
+        "rowCount": 270,
+        "bytes": 32436,
+        "sha256": "0fec7c266146a1a74072e95a20f8dc277bd293482c485dd963285a572b1f0516",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-BR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BS": {
+      "country": "Bahamas",
+      "countryCode": "BS",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 32,
+        "rowCount": 320,
+        "bytes": 39204,
+        "sha256": "8af1f3d3af71c4e1f93d5306b86e061c0392ffd342fddc7a54ebf693f4530dbc",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-BS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BT": {
+      "country": "Bhutan",
+      "countryCode": "BT",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 20,
+        "rowCount": 200,
+        "bytes": 24979,
+        "sha256": "bfb3f03238ef081610d8527fd20d9c1b9f6c0016d095a603bc2fd2ac7aeadecf",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-BT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BW": {
+      "country": "Botswana",
+      "countryCode": "BW",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 19272,
+        "sha256": "bed7009f1154aca430294a9b2d75d28b8b2ce7b759e8db1b947dca50fd4860fd",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-BW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BY": {
+      "country": "Belarus",
+      "countryCode": "BY",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 7672,
+        "sha256": "97149c7f8adf74eeba0e82363ccdc8a225b3b7000fd10583e60853a31322c3e5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-BY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "BZ": {
+      "country": "Belize",
+      "countryCode": "BZ",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6436,
+        "sha256": "5f16bb59c962b5bd4db8683fdb82d03f37bded0c55ec8a403131708ddbda651b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-BZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CA": {
+      "country": "Canada",
+      "countryCode": "CA",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 13,
+        "rowCount": 130,
+        "bytes": 14859,
+        "sha256": "28a0277df25aeffff7d59e655139f55fca29a2655d01222a64a16c608e3523b3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-CA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CC": {
+      "country": "Cocos (Keeling) Islands",
+      "countryCode": "CC",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1547,
+        "sha256": "764c3381e88a8f70561df703711fc66c60e302b19ad3a473f8704546f1c4580d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-CC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CD": {
+      "country": "DR Congo",
+      "countryCode": "CD",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 26,
+        "rowCount": 260,
+        "bytes": 30864,
+        "sha256": "f31a97ac4960f90bd3d562af479fe98d9b89fa66c23cd78bc534c33074b29a5e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-CD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CF": {
+      "country": "Central African Republic",
+      "countryCode": "CF",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 20,
+        "rowCount": 200,
+        "bytes": 22430,
+        "sha256": "7ba303e8e5435b363eb8847495fcd2bba1495f0604b061e7f009bfd3f541d65e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-CF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CG": {
+      "country": "Republic of the Congo",
+      "countryCode": "CG",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 14523,
+        "sha256": "978df3e609e3b64bf30b91be539325f3defbe1fc5aab32400f512219463758e3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-CG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CH": {
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 26,
+        "rowCount": 260,
+        "bytes": 27788,
+        "sha256": "751e8c2b82c4fe4f70a5b1ba1c7ea1d1ed66a640a656efe919d3726e4a2c76dd",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-CH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CI": {
+      "country": "Ivory Coast",
+      "countryCode": "CI",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 15656,
+        "sha256": "c8d2623baa48a58277dee9b4e09cc8bcd247e571a1218b35b337b05049cb6589",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-CI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CK": {
+      "country": "Cook Islands",
+      "countryCode": "CK",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 13569,
+        "sha256": "0de30c2dc850245049cdd9dd9ca1caeb75f2e0fddbc0f53fabf300887b9be7e1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-CK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CL": {
+      "country": "Chile",
+      "countryCode": "CL",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 19331,
+        "sha256": "2dd28e6b790173e0de942bfe8357621c9fae5f7f0d076fcccd566bc0a86d1025",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-CL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CM": {
+      "country": "Cameroon",
+      "countryCode": "CM",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 11220,
+        "sha256": "5da344a9e5afbd4496887c75d052efc0f0277ebf07c8ac3f23e4eb57dd00df08",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-CM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CN": {
+      "country": "China",
+      "countryCode": "CN",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 31,
+        "rowCount": 310,
+        "bytes": 35531,
+        "sha256": "4957f9e7e54f2f98a45564c855a1b63fabbfe70ba2c1228d11c2e46645339aa3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-CN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CO": {
+      "country": "Colombia",
+      "countryCode": "CO",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 33,
+        "rowCount": 330,
+        "bytes": 36970,
+        "sha256": "a3068ff835877b69d69e9bf8c13b8e4b1d91f0d1d7cc17832b9c5a3a7861bece",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-CO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CR": {
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8250,
+        "sha256": "53d80d36425d54f561e1d629f14f1c67b0e84f49bb6249b7816ea55e2446c20f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-CR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CU": {
+      "country": "Cuba",
+      "countryCode": "CU",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 19196,
+        "sha256": "42250acde96cf137659b2b30655cafba8cebebc5297d645fb5087c6499b06503",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-CU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CV": {
+      "country": "Cape Verde",
+      "countryCode": "CV",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 22765,
+        "sha256": "cfb0a5c9917bc0a4d868bf87c82765e2ac8001702df10eaae5679acce8ad5246",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-CV-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CW": {
+      "country": "Curaçao",
+      "countryCode": "CW",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1553,
+        "sha256": "e9c21df7e755acd5d1990a97546601bfe82bd5c141a342193e2623be2a7fbeb5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-CW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CX": {
+      "country": "Christmas Island",
+      "countryCode": "CX",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1556,
+        "sha256": "751a7297d5ab0b280a3f2095ba14c965ba59af82340c5e29803ff899ea086d24",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-CX-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CY": {
+      "country": "Cyprus",
+      "countryCode": "CY",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6451,
+        "sha256": "75ac7d3e7abe012e94ea7ea264deab06b4f01720f6a7220b23caddead847f71c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-CY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "CZ": {
+      "country": "Czechia",
+      "countryCode": "CZ",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 98,
+        "rowCount": 980,
+        "bytes": 100114,
+        "sha256": "3135b69a4356c7dfca63eb06bdbec8d4ade361fe3fcd7d16cfc923a50cb7a0a8",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-CZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "DE": {
+      "country": "Germany",
+      "countryCode": "DE",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 16671,
+        "sha256": "c2222e393b5ec8f98c69f60cf8bad599495e83d0ac40635eb2817886727414c9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-DE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "DJ": {
+      "country": "Djibouti",
+      "countryCode": "DJ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 7529,
+        "sha256": "1e48429ad1a0b2b3928a384c5b840170334af5aa63c8da9b2a49a2271e467428",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-DJ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "DK": {
+      "country": "Denmark",
+      "countryCode": "DK",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 28,
+        "rowCount": 280,
+        "bytes": 33781,
+        "sha256": "5e87fb3f0e6fd07eb05dd8be97c1b932ca09811df1744601c28b7569a601594f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-DK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "DM": {
+      "country": "Dominica",
+      "countryCode": "DM",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 10512,
+        "sha256": "9720c69097142f04094ae7a071b2a9d06185d9914efa3edfbd9e5ecda930f0fc",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-DM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "DO": {
+      "country": "Dominican Republic",
+      "countryCode": "DO",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 32,
+        "rowCount": 320,
+        "bytes": 32795,
+        "sha256": "0ef8a84245258cf7c096c7a56615f0d65fbc9e0ef63453cf3ec8a09f404db2f1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-DO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "DZ": {
+      "country": "Algeria",
+      "countryCode": "DZ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 58,
+        "rowCount": 580,
+        "bytes": 62845,
+        "sha256": "4374f3a9b0aa35fb4840b2f33934a3226f84bc6eded7efaade4312262af74a18",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-DZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "EC": {
+      "country": "Ecuador",
+      "countryCode": "EC",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 24,
+        "rowCount": 240,
+        "bytes": 29115,
+        "sha256": "375f254d6f92b3ae9a47db8c98f4e665b54c41ff64dcc02ba3b4f88ec4a54895",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-EC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "EE": {
+      "country": "Estonia",
+      "countryCode": "EE",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 79,
+        "rowCount": 790,
+        "bytes": 94898,
+        "sha256": "04d23c08bdb9d62ea7e899f699d6b49318381a5f79671e0e9d8b1e0dca2c6082",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-EE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "EG": {
+      "country": "Egypt",
+      "countryCode": "EG",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 27,
+        "rowCount": 270,
+        "bytes": 32235,
+        "sha256": "ee86f094a144c568489367b5d5926f44dfe89ed4eff9ff35afa018660d1f0ecf",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-EG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "EH": {
+      "country": "Western Sahara",
+      "countryCode": "EH",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 4,
+        "rowCount": 40,
+        "bytes": 5077,
+        "sha256": "f7b1980bae1230abc9b08957adfec631d2eb76cf0f1d1d6c0a2a6d55b009ca56",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-EH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ER": {
+      "country": "Eritrea",
+      "countryCode": "ER",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6424,
+        "sha256": "5c0172bc44bbe4e734963bf289dcb28d128186a5c9785f1af255fa4ef0f608b9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ER-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ES": {
+      "country": "Spain",
+      "countryCode": "ES",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 52,
+        "rowCount": 520,
+        "bytes": 56222,
+        "sha256": "5d7f0479909b26ae6f621183e2f9422881d2d951bff1435b2929f40251ee932e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-ES-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ET": {
+      "country": "Ethiopia",
+      "countryCode": "ET",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 16167,
+        "sha256": "4e1a7b336100890daba0cbe21b0b3ad90df17c33fd40357cbf9218fcf5f09838",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ET-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "FI": {
+      "country": "Finland",
+      "countryCode": "FI",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 19,
+        "rowCount": 190,
+        "bytes": 23121,
+        "sha256": "1d418b21f0e98c7993e27a9d7d7d998b6536f8d8144bd11ff5ed5550fb9cdc4e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-FI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "FJ": {
+      "country": "Fiji",
+      "countryCode": "FJ",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 15,
+        "rowCount": 150,
+        "bytes": 18363,
+        "sha256": "cb267b01dcbffd093990cc6bec8b68cce092043f4534b782fcad026b767cc7d9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-FJ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "FK": {
+      "country": "Falkland Islands",
+      "countryCode": "FK",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1547,
+        "sha256": "811062bcc25300163156b19428e61f62fd16edddcf2e85957f276cf919c820bf",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-FK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "FM": {
+      "country": "Micronesia",
+      "countryCode": "FM",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 4,
+        "rowCount": 40,
+        "bytes": 4787,
+        "sha256": "90ae16e638d84bc96b2557f4ae6caeaf4a0ae09382cb90f37fb4fc8151cae788",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-FM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "FO": {
+      "country": "Faroe Islands",
+      "countryCode": "FO",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 7511,
+        "sha256": "81e26ff609edf938e73a8caca3a25fd8b10c6eb4df9ba87a405c9fae686e5c40",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-FO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "FR": {
+      "country": "France",
+      "countryCode": "FR",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 96,
+        "rowCount": 960,
+        "bytes": 105973,
+        "sha256": "086c5081de8df4e30e812cce661d89247048c5efd617afc52ba777fcaef78b13",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-FR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GA": {
+      "country": "Gabon",
+      "countryCode": "GA",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 9,
+        "rowCount": 90,
+        "bytes": 11116,
+        "sha256": "72522221bd2808617b3016dc3943e2c49f6a874cfecdf0c9cfccd39aa5fe54e1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-GA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GB": {
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 186,
+        "rowCount": 1860,
+        "bytes": 200235,
+        "sha256": "123e66af2cef75b1934bfe8d8a33dc39b89840562054d232bd4b112e3d3df9e1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-GB-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GD": {
+      "country": "Grenada",
+      "countryCode": "GD",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8792,
+        "sha256": "abedcff23bf0fd8e541d5653b63052aced3291eef1eb328fbefc8c52cc74187e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-GD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GE": {
+      "country": "Georgia",
+      "countryCode": "GE",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 13625,
+        "sha256": "0cd901a814409510961f5ada32c9412a6eec7aa9bd86c7fb272e81131b1c9cdb",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-GE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GF": {
+      "country": "French Guiana",
+      "countryCode": "GF",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1558,
+        "sha256": "a1af9abd8013aa2a23d81efb9664f431efc2e655119fd9da9ee68cb5edef44f0",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-GF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GG": {
+      "country": "Guernsey",
+      "countryCode": "GG",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 11536,
+        "sha256": "a5dc3ce9acd6e9cd8f5c55ff6786ff9b245e1b48ec27854ecc7c7d46d9a5553f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-GG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GH": {
+      "country": "Ghana",
+      "countryCode": "GH",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 18671,
+        "sha256": "65e77c0d5d6561674c0f5176797d58a9efde56a159ea51ccb74f4e6f8038b35f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-GH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GI": {
+      "country": "Gibraltar",
+      "countryCode": "GI",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1363,
+        "sha256": "34d8ede87ebf0d1ab3de29ca89c63a45baf7151e51dec6f7dc02476ec06fde1f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-GI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GL": {
+      "country": "Greenland",
+      "countryCode": "GL",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6275,
+        "sha256": "469b93246faa2219b0fdc67b7a670ffc5154623ecc3fb4a02cc0fedb1d3050ef",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-GL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GM": {
+      "country": "Gambia",
+      "countryCode": "GM",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6415,
+        "sha256": "bb21137142427de63dd4a74f2ad83fca24ebd5313b011e0a60d59964e8817d79",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-GM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GN": {
+      "country": "Guinea",
+      "countryCode": "GN",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 34,
+        "rowCount": 340,
+        "bytes": 39943,
+        "sha256": "e42b5638f9239359c53f42f981947ee7da5db6455c373004b69aaa0bd51b44b6",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-GN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GP": {
+      "country": "Guadeloupe",
+      "countryCode": "GP",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1362,
+        "sha256": "e5a5ac8b5ad37857810ef526eef1fec48ee1ff4b74c3026509e8c095c795980e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-GP-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GQ": {
+      "country": "Equatorial Guinea",
+      "countryCode": "GQ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 8,
+        "rowCount": 80,
+        "bytes": 9745,
+        "sha256": "d38bd356c4e753a1a5031d9a110ca7ebbdd450e31cf3c15438c0aeae0d6b9a2d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-GQ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GR": {
+      "country": "Greece",
+      "countryCode": "GR",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14572,
+        "sha256": "9379f1879d732d93ca49cd3a1ef52edafd3c82bae5d44231e0defca2bb872b69",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-GR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GS": {
+      "country": "South Georgia",
+      "countryCode": "GS",
+      "continents": [
+        "Antarctica"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1529,
+        "sha256": "5cffbcf5f236c7dfcdefed4929285afd85b53b9e38350df9dbe581b92172b50a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-antarctica-GS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GT": {
+      "country": "Guatemala",
+      "countryCode": "GT",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 22653,
+        "sha256": "c72684984fd856f67035e5e472e7e9bcea8e3ad1df2c96f9285993048f66816e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-GT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GU": {
+      "country": "Guam",
+      "countryCode": "GU",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 19,
+        "rowCount": 190,
+        "bytes": 19482,
+        "sha256": "5e1938dc03d15cbd13964852b689b83e12cb221de2206de4dde742596408cc1a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-GU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GW": {
+      "country": "Guinea-Bissau",
+      "countryCode": "GW",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 9,
+        "rowCount": 90,
+        "bytes": 11452,
+        "sha256": "57a2fa64cf929c6ac340df944d08ccb0768ca1cc2e674dd0260283c8c86c745e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-GW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "GY": {
+      "country": "Guyana",
+      "countryCode": "GY",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 11621,
+        "sha256": "06cc18fc7465f04402b613cf1443be8b654804c62d9823bc89bdfff77ada9d97",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-GY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "HK": {
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 22410,
+        "sha256": "23f57bb1bf633c88cc75b6554d95f7c1601a528685ac166ca8065e0ef3278de6",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-HK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "HN": {
+      "country": "Honduras",
+      "countryCode": "HN",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 18586,
+        "sha256": "09535fd6e8e12beb2dfcd1cd7bac99e906ecfa035152b1ce611cb295de0e9097",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-HN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "HR": {
+      "country": "Croatia",
+      "countryCode": "HR",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 21,
+        "rowCount": 210,
+        "bytes": 25227,
+        "sha256": "e44cadd8a10014aed866b1cae3ff3d580bc0074f8788e6b301933a4e0ea583e5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-HR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "HT": {
+      "country": "Haiti",
+      "countryCode": "HT",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 10463,
+        "sha256": "5b2632af79989dc4d366a3274efba7cbb2824b76ef6c7350dcded6abbe01d533",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-HT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "HU": {
+      "country": "Hungary",
+      "countryCode": "HU",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 20,
+        "rowCount": 200,
+        "bytes": 21730,
+        "sha256": "4347d1b54cf9acc1c8eae4167a4f8edb77e11557b4809b22b75424dfcecf1dc6",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-HU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ID": {
+      "country": "Indonesia",
+      "countryCode": "ID",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 38,
+        "rowCount": 380,
+        "bytes": 45420,
+        "sha256": "b5b0d01fbed6c9e77e1121a89be8f7c60a3008210378a5cabf416499294c2800",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-ID-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IE": {
+      "country": "Ireland",
+      "countryCode": "IE",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 31,
+        "rowCount": 310,
+        "bytes": 32471,
+        "sha256": "55cf6d1a5494a61ae6e0571de51aefb8b895e975a1a860c1fa326158795b43e5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-IE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IL": {
+      "country": "Israel",
+      "countryCode": "IL",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8616,
+        "sha256": "baac81bf4212c710bf622615fac4828163415159e63304ca3dcc7cfff9d2d6f7",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-IL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IN": {
+      "country": "India",
+      "countryCode": "IN",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 36,
+        "rowCount": 360,
+        "bytes": 43179,
+        "sha256": "64da29cbe1213fb0de2f41aba6045e798e399410623773097ee095b124a69081",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-IN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IO": {
+      "country": "British Indian Ocean Territory",
+      "countryCode": "IO",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1558,
+        "sha256": "5d6c482ad7b5d95b857d67d92ae3baeecfa3b00ccdbd426a39da968550416fde",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-IO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IQ": {
+      "country": "Iraq",
+      "countryCode": "IQ",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 19,
+        "rowCount": 190,
+        "bytes": 21788,
+        "sha256": "5170fe29ce950acc01a49cb6cca039fead91caa5c30e5ebc2dfaf05d1a1aceb4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-IQ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IR": {
+      "country": "Iran",
+      "countryCode": "IR",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 31,
+        "rowCount": 310,
+        "bytes": 34410,
+        "sha256": "c6dc41f70796dae0da502eebba5b72473bd87192498e946273c73f298de80944",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-IR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IS": {
+      "country": "Iceland",
+      "countryCode": "IS",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 64,
+        "rowCount": 640,
+        "bytes": 76427,
+        "sha256": "1b53660cc6c0bbbfb2e6211ed3d7086ddffd18d95ae055b07ac047a4897a9aaf",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-IS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "IT": {
+      "country": "Italy",
+      "countryCode": "IT",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 107,
+        "rowCount": 1070,
+        "bytes": 121099,
+        "sha256": "bf679fdbd7ed22fc84f2168d19df4c661a16d6edfe143342746e4c4e06b93e72",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-IT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "JE": {
+      "country": "Jersey",
+      "countryCode": "JE",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 12593,
+        "sha256": "5040d94901bcf30b90599709ef3be7302b5e71980689170d691d1f9219ba641a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-JE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "JM": {
+      "country": "Jamaica",
+      "countryCode": "JM",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14534,
+        "sha256": "8730b0a3573dbdcbbb13f777fd3e3ea4940ea18bf4ef59bc56379a11ee99d9f1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-JM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "JO": {
+      "country": "Jordan",
+      "countryCode": "JO",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 14474,
+        "sha256": "d1c84c8b2caf2b59afd525f2f5d2e641907bdf210c267e4bb38af56aa3bf8eb9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-JO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "JP": {
+      "country": "Japan",
+      "countryCode": "JP",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 47,
+        "rowCount": 470,
+        "bytes": 50963,
+        "sha256": "3b611332ba44775172477da64704b6f4b34e1226c0e2a649c7807ce395e0bec0",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-JP-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KE": {
+      "country": "Kenya",
+      "countryCode": "KE",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 47,
+        "rowCount": 470,
+        "bytes": 56424,
+        "sha256": "8b87119db6211231877a0fee6827c65f16b057e3847172d937ed472dc30bc299",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-KE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KG": {
+      "country": "Kyrgyzstan",
+      "countryCode": "KG",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 9,
+        "rowCount": 90,
+        "bytes": 10197,
+        "sha256": "5476982d4b522d0232ade3c728fbb00c08967ec751f525d64eca0417dd853e20",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-KG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KH": {
+      "country": "Cambodia",
+      "countryCode": "KH",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 25,
+        "rowCount": 250,
+        "bytes": 28558,
+        "sha256": "7e39658543e5858d91001098e51cbae35334874cf02cd10c27e02daf41ad45e4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-KH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KI": {
+      "country": "Kiribati",
+      "countryCode": "KI",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3922,
+        "sha256": "9f35dfa22921b1418e3e7bdf62f201cd4679aa022e7daa68a88cf026e20136d4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-KI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KM": {
+      "country": "Comoros",
+      "countryCode": "KM",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3960,
+        "sha256": "5e68905ddab1f2bb61cedd7c51a93c10ada38303bc6855fa488b173a27c8cdb5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-KM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KN": {
+      "country": "Saint Kitts and Nevis",
+      "countryCode": "KN",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14562,
+        "sha256": "974babb51644e4901038e7ff9313a26744e6242d87dcad6dee768177f31f28ca",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-KN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KP": {
+      "country": "North Korea",
+      "countryCode": "KP",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 13,
+        "rowCount": 130,
+        "bytes": 13782,
+        "sha256": "eb7034b3b24be7f4dbdbfbe16c941d75ded49ce0f960db63f7ba60356d26a820",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-KP-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KR": {
+      "country": "South Korea",
+      "countryCode": "KR",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 17,
+        "rowCount": 170,
+        "bytes": 17844,
+        "sha256": "fe8df8f59d54ee754e47fff630f8a1e2cef80a90560f5f8eed90e6cd3d77b3f3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-KR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KW": {
+      "country": "Kuwait",
+      "countryCode": "KW",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 7415,
+        "sha256": "0f779d6c70928224737d836366f744125dda781f9685f0b6bd332bd933abfa5c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-KW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KY": {
+      "country": "Cayman Islands",
+      "countryCode": "KY",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6467,
+        "sha256": "23c6bfd4984c560a7a23a6be49293d9ff565479ec4f2b317fa09d169ceecf5d4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-KY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "KZ": {
+      "country": "Kazakhstan",
+      "countryCode": "KZ",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 21,
+        "rowCount": 210,
+        "bytes": 23434,
+        "sha256": "89229f9c2c1545d6c81ac795dc9e448b30d0b0c8218db16ac40e1cf8ee98e782",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-KZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LA": {
+      "country": "Laos",
+      "countryCode": "LA",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 18714,
+        "sha256": "12ee1d3b75d3ba5a9a1d586e1013598d70e5182dc86801e8c29e472122be250a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-LA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LB": {
+      "country": "Lebanon",
+      "countryCode": "LB",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 8,
+        "rowCount": 80,
+        "bytes": 9627,
+        "sha256": "764226b03bdf6904898a74c8ea5274efac93688f3e7629309d85b2e295c3c547",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-LB-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LC": {
+      "country": "Saint Lucia",
+      "countryCode": "LC",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 10482,
+        "sha256": "fa49c41b33b6071b43509760c1bbbb644aa85f38bf4f5c4c6fca69c33d4d0653",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-LC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LI": {
+      "country": "Liechtenstein",
+      "countryCode": "LI",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 11481,
+        "sha256": "6e2ed2b43f29eae195deefb8d8f69028f9389a0242b856f0227f8fdf648b941c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-LI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LK": {
+      "country": "Sri Lanka",
+      "countryCode": "LK",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 25,
+        "rowCount": 250,
+        "bytes": 28778,
+        "sha256": "74f09b49f2d8bf0ae8f2add9b9863e5659b1ac677750d449c7f1379c02f85239",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-LK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LR": {
+      "country": "Liberia",
+      "countryCode": "LR",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 15,
+        "rowCount": 150,
+        "bytes": 17034,
+        "sha256": "92435222cfc4a98214645b41bfb372632d1ce69c0dd9426720fe3b1952ae4749",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-LR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LS": {
+      "country": "Lesotho",
+      "countryCode": "LS",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 12188,
+        "sha256": "d192438eb24bfe8ce136f36ec4de2ec2d6d14d57c2b2291af53f98608911a651",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-LS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LT": {
+      "country": "Lithuania",
+      "countryCode": "LT",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 60,
+        "rowCount": 600,
+        "bytes": 71397,
+        "sha256": "0de0cd73fbcac4a5704e1777f7eae2b60a706b414dfa2eee68fc78dd4bbc0d41",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-LT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LU": {
+      "country": "Luxembourg",
+      "countryCode": "LU",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 12571,
+        "sha256": "d232861bc8c790f25c6cd620647aacae3cf1874484aaa2ebcd44ea71025f6d5b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-LU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LV": {
+      "country": "Latvia",
+      "countryCode": "LV",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 43,
+        "rowCount": 430,
+        "bytes": 51734,
+        "sha256": "6412c512d840bdd0ca7a1c0d61ed6ddf53c010a1ff0ddc4eb34c376cafbdab68",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-LV-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "LY": {
+      "country": "Libya",
+      "countryCode": "LY",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 26311,
+        "sha256": "fd397625c4b8e290eb86bac052b11d5d0a784c675c3f3304ba3d304dfb20f846",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-LY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MA": {
+      "country": "Morocco",
+      "countryCode": "MA",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 75,
+        "rowCount": 750,
+        "bytes": 86923,
+        "sha256": "1a887b5f726017ae7b1c7ce1d7e370a0a8463243631bd5b6f51be44eb016a9b0",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-MA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MC": {
+      "country": "Monaco",
+      "countryCode": "MC",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1533,
+        "sha256": "5e52e5e66ab343cf2d1e6e136c2e633a81169f1157c0cd9170e94b2b1ea24bc3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-MC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MD": {
+      "country": "Moldova",
+      "countryCode": "MD",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 37,
+        "rowCount": 370,
+        "bytes": 39512,
+        "sha256": "d00156b55b0c1cb838edeff3141040c6c5617ab4d0e471ae21bf4d7c43e9d997",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-MD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ME": {
+      "country": "Montenegro",
+      "countryCode": "ME",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 25,
+        "rowCount": 250,
+        "bytes": 29752,
+        "sha256": "c4051acee0532e9a3d4338a3095e0e35c09f3ff0f32aec632a2443b25d153275",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-ME-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MF": {
+      "country": "Saint Martin",
+      "countryCode": "MF",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1373,
+        "sha256": "5c113986db124ca0badc91c4e4992ffdaf6e91abebf465613d4adff1cbe6d214",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-MF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MG": {
+      "country": "Madagascar",
+      "countryCode": "MG",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 23,
+        "rowCount": 230,
+        "bytes": 27870,
+        "sha256": "431e852ad144dc4d242f109b88f5fb047439aff1658b7bbd11e6354af945b874",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-MG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MH": {
+      "country": "Marshall Islands",
+      "countryCode": "MH",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 33,
+        "rowCount": 330,
+        "bytes": 37382,
+        "sha256": "14a3b3fb12bdf01a4822a32a4154ce9cf7e2f1220e839c19aafdc98f5dceaf43",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-MH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MK": {
+      "country": "North Macedonia",
+      "countryCode": "MK",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 71,
+        "rowCount": 710,
+        "bytes": 74735,
+        "sha256": "fdb2a3b0e46c3649933ee4f945e76f74e4de42e2393ca7dbf3bb92e5e05ce17f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-MK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ML": {
+      "country": "Mali",
+      "countryCode": "ML",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 11888,
+        "sha256": "a8bc3f981d84e66eec01e28eb6c3965b1c327e2a4a4343d999dbf2d3f1f2fc1a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ML-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MM": {
+      "country": "Myanmar",
+      "countryCode": "MM",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 15,
+        "rowCount": 150,
+        "bytes": 16388,
+        "sha256": "e1ea5c7c823af4965ec75f0772c986b362ba8ad7d7c4bd9d147b707a9c1baacb",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-MM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MN": {
+      "country": "Mongolia",
+      "countryCode": "MN",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 24161,
+        "sha256": "97bc20ba5c639c5f012107f09602997105b1f3ed0feec71e55c3dbbdbf3d372a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-MN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MP": {
+      "country": "Northern Mariana Islands",
+      "countryCode": "MP",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 4,
+        "rowCount": 40,
+        "bytes": 4397,
+        "sha256": "2b0dd65d6fb82755b48e1dbbf9d45198c08c2a95e0e1a98fcfcead7a83163495",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-MP-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MQ": {
+      "country": "Martinique",
+      "countryCode": "MQ",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1367,
+        "sha256": "6d4949ecdff865703b77a567ecd4231d7271bd925c8d41eb485fe946dbc0da24",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-MQ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MR": {
+      "country": "Mauritania",
+      "countryCode": "MR",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 15,
+        "rowCount": 150,
+        "bytes": 15811,
+        "sha256": "2e91b8fffe2639b0f52b0d4d307971ee046c11e1ed6f5d92aef85c1d801a040c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-MR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MS": {
+      "country": "Montserrat",
+      "countryCode": "MS",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3406,
+        "sha256": "52ac96362d3ae2fae97f03fed91849438b6572ffcce1c6a6685e74b146b7c76e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-MS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MT": {
+      "country": "Malta",
+      "countryCode": "MT",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 68,
+        "rowCount": 680,
+        "bytes": 69625,
+        "sha256": "28bb9e22cc8e3ff5a92a2a2746bd6f22311d7e8ad407b4703a6a660f21bec847",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-MT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MU": {
+      "country": "Mauritius",
+      "countryCode": "MU",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 14764,
+        "sha256": "caaee7aaff0ab91383dd2de8b7ee1b04acba97043d0e0504e4db419d3949c0a9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-MU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MV": {
+      "country": "Maldives",
+      "countryCode": "MV",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 21,
+        "rowCount": 210,
+        "bytes": 23508,
+        "sha256": "d98a86beb7a79c0f18f8b666a592bb8600603446207f7ba1a1ff47ef62aed1e2",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-MV-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MW": {
+      "country": "Malawi",
+      "countryCode": "MW",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 28,
+        "rowCount": 280,
+        "bytes": 33447,
+        "sha256": "e7ba2db774389a3c28f3f9a4cff421d3ff53711d0dfbfbe04357645f38a562d4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-MW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MX": {
+      "country": "Mexico",
+      "countryCode": "MX",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 32,
+        "rowCount": 320,
+        "bytes": 35319,
+        "sha256": "1149ad73135fbc40e32749482f8f0713fac3f8a014c1c5468af46b79ce7be289",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-MX-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MY": {
+      "country": "Malaysia",
+      "countryCode": "MY",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 17589,
+        "sha256": "1965bdc0ad94b9aaf5f4ce633cb9396f83a1588ffd8effa84aa67748e1462405",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-MY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "MZ": {
+      "country": "Mozambique",
+      "countryCode": "MZ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 13423,
+        "sha256": "4dfd538447fea0ed179fe21d2d94bb2426e226a5e062c75faba491fb9896b543",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-MZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NA": {
+      "country": "Namibia",
+      "countryCode": "NA",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 16876,
+        "sha256": "81e76675b9d58c244738eadfdf722ed4f844ead4f40383c756bee4a12834dcc0",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-NA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NC": {
+      "country": "New Caledonia",
+      "countryCode": "NC",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3961,
+        "sha256": "d4acbda37096789365f67a85cc9fb7c0df9f88fb59acda142211e1b7875e7f78",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-NC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NE": {
+      "country": "Niger",
+      "countryCode": "NE",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 8,
+        "rowCount": 80,
+        "bytes": 8457,
+        "sha256": "a7adcf6fc4372754793a82a1731544af30df313a4b475153b68b2432d32ebf69",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-NE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NF": {
+      "country": "Norfolk Island",
+      "countryCode": "NF",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1553,
+        "sha256": "42a050f7f09d32ebe93d0f70f2d3aa236217cbc665846fa251d9a370e8996339",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-NF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NG": {
+      "country": "Nigeria",
+      "countryCode": "NG",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 37,
+        "rowCount": 370,
+        "bytes": 42251,
+        "sha256": "50839bacdd74e5b62216519ecfab2f0cc00c8649adb49be7fd932c126193c2a5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-NG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NI": {
+      "country": "Nicaragua",
+      "countryCode": "NI",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 17,
+        "rowCount": 170,
+        "bytes": 19393,
+        "sha256": "ceb550e40949144f86b8c2f30408b7668f2e64353ca7d015da6939db6c3ac3f5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-NI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NL": {
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 12,
+        "rowCount": 120,
+        "bytes": 12618,
+        "sha256": "4803c85cbed5b040a38ba9cf757d6928e8cc978a7a6c6e3b3337a05774e13efe",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-NL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NO": {
+      "country": "Norway",
+      "countryCode": "NO",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 15,
+        "rowCount": 150,
+        "bytes": 18234,
+        "sha256": "070223da243a767511355e11d200b3be5d72c82491e91d67e97697e3c71f952d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-NO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NP": {
+      "country": "Nepal",
+      "countryCode": "NP",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 9057,
+        "sha256": "16deb5d5bdd7066bca4e3788f1ac4a8b848be6ac23b7ee2f19be70a3ce69b056",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-NP-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NR": {
+      "country": "Nauru",
+      "countryCode": "NR",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 17218,
+        "sha256": "a11c6025b391108937fe6b7e2e97b29f298d07335e923ba1597976422d2ef377",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-NR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NU": {
+      "country": "Niue",
+      "countryCode": "NU",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 17238,
+        "sha256": "c8c488c399322fbbe72f8559beaababf7ea5b45edd7ecd57e7536b61a7d1e4d5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-NU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "NZ": {
+      "country": "New Zealand",
+      "countryCode": "NZ",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 17,
+        "rowCount": 170,
+        "bytes": 20589,
+        "sha256": "5ed9d9d798e2f93d0764e89e68ed9dfa3a9cc4b51832ca01480910fdddc10dec",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-NZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "OM": {
+      "country": "Oman",
+      "countryCode": "OM",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 13058,
+        "sha256": "e16dd52981360ea165d2759141a1247a4d5741c08a33ac51458ba30a7827eabf",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-OM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PA": {
+      "country": "Panama",
+      "countryCode": "PA",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14958,
+        "sha256": "eb8075a79b411af339bd417a2d366858c1dcf7527d3b836ca246dd307a16639b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-PA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PE": {
+      "country": "Peru",
+      "countryCode": "PE",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 26,
+        "rowCount": 260,
+        "bytes": 31354,
+        "sha256": "a4e2cc5448fc7b0870cf45b2a5ad2f98ed939fb6e04d08c08ec533cb9013787b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-PE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PF": {
+      "country": "French Polynesia",
+      "countryCode": "PF",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6381,
+        "sha256": "eef13ef48eb1b7e58f82e96dcc681d8c591f016e3574dd9942547493fb2df66e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-PF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PG": {
+      "country": "Papua New Guinea",
+      "countryCode": "PG",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 26788,
+        "sha256": "bea9e29fe430e0d1d1215bf26189e0363a0c13b9094287f7d792cc288df15e33",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-PG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PH": {
+      "country": "Philippines",
+      "countryCode": "PH",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 87,
+        "rowCount": 870,
+        "bytes": 94979,
+        "sha256": "05e890a42cb1e5456361ff9cb91acdb2b4782a3055bac8bba2eff743985ebea1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-PH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PK": {
+      "country": "Pakistan",
+      "countryCode": "PK",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8652,
+        "sha256": "1488b3919565acb86b39b38ac779eef13d9275c5e6a914137fee808e92ce917b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-PK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PL": {
+      "country": "Poland",
+      "countryCode": "PL",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 16844,
+        "sha256": "81738207a2ea507e77d591ef70a53a36085800963b694aaf4c72556c291e8288",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-PL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PM": {
+      "country": "Saint Pierre and Miquelon",
+      "countryCode": "PM",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 2,
+        "rowCount": 20,
+        "bytes": 2414,
+        "sha256": "6973f098a3c68ed4c4c51cc894b870d4cc7ebbc024c5f8ea7f75ed904ba6f2f9",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-PM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PN": {
+      "country": "Pitcairn Islands",
+      "countryCode": "PN",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1546,
+        "sha256": "a4dc012f1e597f07400c279c0da14f2ff80578406742a0b89e0ace3e46dfa419",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-PN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PR": {
+      "country": "Puerto Rico",
+      "countryCode": "PR",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 78,
+        "rowCount": 780,
+        "bytes": 79557,
+        "sha256": "f67bff63ea34eb3d975c1e72024ee767aa6340dbfe0fa8caf4fb7ecdf34b3319",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-PR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PS": {
+      "country": "Palestine",
+      "countryCode": "PS",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 19260,
+        "sha256": "8e3e2390ac4815b098b1f6f6d6d77e410e273857f3e9c6da1d1c249f03e1e17c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-PS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PT": {
+      "country": "Portugal",
+      "countryCode": "PT",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 20,
+        "rowCount": 200,
+        "bytes": 20878,
+        "sha256": "a6f6096660663fdab01035d2cdc88a30823f75af1919f0b6ee9930713d9c7dbe",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-PT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PW": {
+      "country": "Palau",
+      "countryCode": "PW",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 16,
+        "rowCount": 160,
+        "bytes": 19175,
+        "sha256": "95f3b6c1ed1caa53c6b3e2893f466ab8bb89984c0179b9e1eed190a9a1fac2e8",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-PW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "PY": {
+      "country": "Paraguay",
+      "countryCode": "PY",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 22138,
+        "sha256": "4f2ca7eeb58ad2e41930344da96dd33873f6014721481e12fb99fdda58e6f7e0",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-PY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "QA": {
+      "country": "Qatar",
+      "countryCode": "QA",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 8,
+        "rowCount": 80,
+        "bytes": 9799,
+        "sha256": "4d52504b0f9936ee35db9f51d73c939761512ff9626b8dd5fd289a68a8008661",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-QA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "RE": {
+      "country": "Réunion",
+      "countryCode": "RE",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1542,
+        "sha256": "7faedda0c47338e13aa35f1b64f94adbae07da2a0b330d86ccd7702131b7ddbf",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-RE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "RO": {
+      "country": "Romania",
+      "countryCode": "RO",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 42,
+        "rowCount": 420,
+        "bytes": 48681,
+        "sha256": "47f4f22372c601c9e495cc4baed9984229a805755eeb83e8ac3fdca39b7811b4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-RO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "RS": {
+      "country": "Serbia",
+      "countryCode": "RS",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 25,
+        "rowCount": 250,
+        "bytes": 29955,
+        "sha256": "dc777f997c6fb2eb496d94e7a3806e5c17bda00816d8cd7bc912d53fa229f58d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-RS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "RU": {
+      "country": "Russia",
+      "countryCode": "RU",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 83,
+        "rowCount": 830,
+        "bytes": 94738,
+        "sha256": "bef52a087bc05e2c4fa15387f43e73921e3a700a29ba4559fce5242c8f29e778",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-RU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "RW": {
+      "country": "Rwanda",
+      "countryCode": "RW",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6278,
+        "sha256": "9e862b43f6a6068688e63fe5477916ba78459f28baf9ab5afbebc1cea6588e05",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-RW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SA": {
+      "country": "Saudi Arabia",
+      "countryCode": "SA",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 13,
+        "rowCount": 130,
+        "bytes": 15086,
+        "sha256": "495514cbbb1de7c0455590c7a87b585265801151ddf02a1db65902ba4d8ef421",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-SA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SB": {
+      "country": "Solomon Islands",
+      "countryCode": "SB",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 12427,
+        "sha256": "ffe2269926a51a58483543cadffba95ffe7ca5a4d2f9a0818c8085870d93b633",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-SB-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SC": {
+      "country": "Seychelles",
+      "countryCode": "SC",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 28,
+        "rowCount": 280,
+        "bytes": 34053,
+        "sha256": "e1128c10ed8519e347ee3ee136d90fb7e8231b4d9ce36e334e72b9c5bebcf9a3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SD": {
+      "country": "Sudan",
+      "countryCode": "SD",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 19838,
+        "sha256": "3135f7422ebfc7408e757b4663b774067476ac7882fa26d34e6ceccc995e5291",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SE": {
+      "country": "Sweden",
+      "countryCode": "SE",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 21,
+        "rowCount": 210,
+        "bytes": 25407,
+        "sha256": "1d63f12177dae6cb0ce58288ad35e17dc526f09756e9651048c3cfe440f0f0ce",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-SE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SG": {
+      "country": "Singapore",
+      "countryCode": "SG",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6333,
+        "sha256": "c220257a20619c69ca3611d92d31e055965e8d66046cbc8b1c8d11f9679d57f1",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-SG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SH": {
+      "country": "Saint Helena, Ascension and Tristan da Cunha",
+      "countryCode": "SH",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3981,
+        "sha256": "bd2b5c9f677b0ceae0082e0dd79f1a4b5cdc8ad8f8dd63a2cc86eb84b67724d7",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SI": {
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 212,
+        "rowCount": 2120,
+        "bytes": 250566,
+        "sha256": "18ad981d447d3a85eab71387779df0e82a8e51093879ee2b3adb0c34378c1ae5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-SI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SJ": {
+      "country": "Svalbard and Jan Mayen",
+      "countryCode": "SJ",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 2,
+        "rowCount": 20,
+        "bytes": 2724,
+        "sha256": "7f74a4c8a22334451cae4c8fe0f363ba4d9f93d6c87176d83e49aef6b079dcbd",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-SJ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SK": {
+      "country": "Slovakia",
+      "countryCode": "SK",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 32,
+        "rowCount": 320,
+        "bytes": 32905,
+        "sha256": "a6a3cfd8cc0bc08fb9451c70413ab66429d322bb61271a3e47f7f0ffaafd523a",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-SK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SL": {
+      "country": "Sierra Leone",
+      "countryCode": "SL",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 5580,
+        "sha256": "df7e3be51320d514486ecd204be4c0f1341ff53ed1651cb3c29a2eebf9bb199f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SM": {
+      "country": "San Marino",
+      "countryCode": "SM",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 9,
+        "rowCount": 90,
+        "bytes": 11011,
+        "sha256": "1ea5b12773d3e0cca9c34f9359e268df83b1570e1f8cb29523d4e7f4287fc7c4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-SM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SN": {
+      "country": "Senegal",
+      "countryCode": "SN",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14576,
+        "sha256": "57e2cdd6495127550631da8f35e1a794eb11dd44ea67f584c3a8f4942552e496",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SO": {
+      "country": "Somalia",
+      "countryCode": "SO",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 18,
+        "rowCount": 180,
+        "bytes": 20654,
+        "sha256": "876b28f90235afcfdf8ca711dacfa836a0c63896df6212c9987ec8ed517a852d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SR": {
+      "country": "Suriname",
+      "countryCode": "SR",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 10501,
+        "sha256": "7d2cf6bfddf790a28f992be06df27d2cb684a9978132a10a9ae6a8038187fa21",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-SR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SS": {
+      "country": "South Sudan",
+      "countryCode": "SS",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 11093,
+        "sha256": "8689e92a8629d5f8d4e936d9e352339cf0068a0c02c4036cc7b63edf32556720",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ST": {
+      "country": "São Tomé and Príncipe",
+      "countryCode": "ST",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8764,
+        "sha256": "4277e1d5c2a455f221030cc629b96d3f5fc3380100e100e37dc2a6415a1e9d1b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ST-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SV": {
+      "country": "El Salvador",
+      "countryCode": "SV",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14569,
+        "sha256": "887de1596f743766518db023f1f87fde55372428973fe3ca020abf02edbef929",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-SV-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SX": {
+      "country": "Sint Maarten",
+      "countryCode": "SX",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1373,
+        "sha256": "e437fd0453c7dba884f8fd15a53425ec0a29e955b6c7ffa5376176ea683e6c1e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-SX-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SY": {
+      "country": "Syria",
+      "countryCode": "SY",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 15557,
+        "sha256": "e5c25231a7f7445fd9756fd4efe26f0ca3a0b66797efbb515a68afba880c660c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-SY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "SZ": {
+      "country": "Eswatini",
+      "countryCode": "SZ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 4,
+        "rowCount": 40,
+        "bytes": 5099,
+        "sha256": "7403b3a45f855f43a195ed99eb2e7148bf977b2897cc336268ca47806b3d5300",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-SZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TC": {
+      "country": "Turks and Caicos Islands",
+      "countryCode": "TC",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 7702,
+        "sha256": "30c2e4fe34d7557296d75d097e736c860d382654f6041e7dcb75c76dcdecfd79",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-TC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TD": {
+      "country": "Chad",
+      "countryCode": "TD",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 23,
+        "rowCount": 230,
+        "bytes": 24960,
+        "sha256": "343fe7cc0c362265d5fe7f61f0bc35951cbf13caa667ef7147ed0f008bb18a29",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-TD-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TF": {
+      "country": "French Southern and Antarctic Lands",
+      "countryCode": "TF",
+      "continents": [
+        "Antarctica"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6298,
+        "sha256": "e498647e3cfe86fae8b08dbbacdd5e5784d3be81b6293938877c0ee4e1e05ae2",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-antarctica-TF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TG": {
+      "country": "Togo",
+      "countryCode": "TG",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 5970,
+        "sha256": "132a0b1d84b080821b92bfebc994d526c2cf71c13970de5272e783e3428f00ac",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-TG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TH": {
+      "country": "Thailand",
+      "countryCode": "TH",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 77,
+        "rowCount": 770,
+        "bytes": 80759,
+        "sha256": "77e491edb4de6c45fbb7fef6c801814189ef236f46288a34d76ceee326264658",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-TH-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TJ": {
+      "country": "Tajikistan",
+      "countryCode": "TJ",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 5425,
+        "sha256": "46ad44e50377ef43e1023783e60e5133a7698b62377d4a324fc49ea42baf61e7",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-TJ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TK": {
+      "country": "Tokelau",
+      "countryCode": "TK",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3940,
+        "sha256": "047bfe2cd85d96d05e0119c1fc21007b334d787a9ef266596d56a00c4a12b0a5",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-TK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TL": {
+      "country": "Timor-Leste",
+      "countryCode": "TL",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 13,
+        "rowCount": 130,
+        "bytes": 15882,
+        "sha256": "14dfa5f3806b4e76b80d86d50deb4bb9afba8ec0a1fbe3f4c19d6a30e0a8a2b4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-TL-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TM": {
+      "country": "Turkmenistan",
+      "countryCode": "TM",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6454,
+        "sha256": "2c48b0487c95b79ea1835dd296a7900ebe50aa88c3ec43a4972338ad75e3bf04",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-TM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TN": {
+      "country": "Tunisia",
+      "countryCode": "TN",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 24,
+        "rowCount": 240,
+        "bytes": 25593,
+        "sha256": "d37f7e63105395c114b581de92dbc170d1e9823617c6e768f2aebfad0962eaed",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-TN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TO": {
+      "country": "Tonga",
+      "countryCode": "TO",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 5,
+        "rowCount": 50,
+        "bytes": 6355,
+        "sha256": "b921f292e1c59499118b3bf04a4ce65985f5a710924f5914abffbba917c4672f",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-TO-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TR": {
+      "country": "Turkey",
+      "countryCode": "TR",
+      "continents": [
+        "Europe",
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 81,
+        "rowCount": 810,
+        "bytes": 82798,
+        "sha256": "d5b23f2a1d1cec8a453115cb0f373e5795dcaa6cc5b134c9965bb1debb5fe278",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-TR-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TT": {
+      "country": "Trinidad and Tobago",
+      "countryCode": "TT",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 15,
+        "rowCount": 150,
+        "bytes": 18516,
+        "sha256": "aad3d9d87ecbcf25af070da52beb58e482f53a46b9d2a05471efd5b8eb9f060b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-TT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TV": {
+      "country": "Tuvalu",
+      "countryCode": "TV",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 8,
+        "rowCount": 80,
+        "bytes": 9970,
+        "sha256": "a941fd3ef00da12c193e5f906eb8ce6822f4d9e98460cf0453e52ecd28af67d8",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-TV-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TW": {
+      "country": "Taiwan",
+      "countryCode": "TW",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 27257,
+        "sha256": "907b977d5f1bc672da9658f6091f3f34b5ffbadff0d599e816f78dce9df786cb",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-TW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "TZ": {
+      "country": "Tanzania",
+      "countryCode": "TZ",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 31,
+        "rowCount": 310,
+        "bytes": 37305,
+        "sha256": "f6cf340a5046c967cdc331b49e6ef352ea7a6b7bd1ddd7cca88747232c4e6e2c",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-TZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "UA": {
+      "country": "Ukraine",
+      "countryCode": "UA",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 27,
+        "rowCount": 270,
+        "bytes": 28524,
+        "sha256": "0dd85767d80ebd4e72bdb6ba93bf39d0f3845cbd5d51b62533f2a462c692dc29",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-UA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "UG": {
+      "country": "Uganda",
+      "countryCode": "UG",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 122,
+        "rowCount": 1220,
+        "bytes": 143194,
+        "sha256": "c2c23375080c656e33a780630eeb9b56f9a4c30227fc93e976551420bd2c1882",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-UG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "US": {
+      "country": "United States",
+      "countryCode": "US",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 51,
+        "rowCount": 510,
+        "bytes": 55989,
+        "sha256": "868d40d571e6b3dea90979293aa56734a8802f7d16ccf8a7c076796c663290e4",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-US-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "UY": {
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 19,
+        "rowCount": 190,
+        "bytes": 23291,
+        "sha256": "af95a5c7d634b6fa193e9baa38c725aaa8f4c14a5613a931f7dc01bf67bfb88e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-UY-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "UZ": {
+      "country": "Uzbekistan",
+      "countryCode": "UZ",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 14,
+        "rowCount": 140,
+        "bytes": 14771,
+        "sha256": "0a0327eae04057d674e25f01f94c99cf144b0c440e5b259d50bad576944282f3",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-UZ-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VA": {
+      "country": "Vatican City",
+      "countryCode": "VA",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1365,
+        "sha256": "a29efdc48f9ef3a0b2a14ee38c6a2910c1c0751dea5433bad0851cb45912b7ab",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-VA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VC": {
+      "country": "Saint Vincent and the Grenadines",
+      "countryCode": "VC",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 6458,
+        "sha256": "6f721a197f06851878bc8b8a1400d69685cbbe4f9cf23afb2c6aa06d6a807da8",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-VC-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VE": {
+      "country": "Venezuela",
+      "countryCode": "VE",
+      "continents": [
+        "South America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 25,
+        "rowCount": 250,
+        "bytes": 28822,
+        "sha256": "3ec96b0c3edb69d259428c03125d57b843d68d60207273c1464c6237759a5a2b",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-south-america-VE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VG": {
+      "country": "British Virgin Islands",
+      "countryCode": "VG",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 1,
+        "rowCount": 10,
+        "bytes": 1381,
+        "sha256": "d8f7a0f936558d27367482ee165c9938b0e2c4707fab9ec681dcee53c914e85e",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-VG-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VI": {
+      "country": "United States Virgin Islands",
+      "countryCode": "VI",
+      "continents": [
+        "North America"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3421,
+        "sha256": "471015953d739f0b9cdf9783d55bb50ee9c59b5c9245c5bca20308dec86ed264",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-north-america-VI-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VN": {
+      "country": "Vietnam",
+      "countryCode": "VN",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 34,
+        "rowCount": 340,
+        "bytes": 38595,
+        "sha256": "91f56fb83775b28574a2c433490337f381615f99a61135e46b2905f629795272",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-VN-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "VU": {
+      "country": "Vanuatu",
+      "countryCode": "VU",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 6,
+        "rowCount": 60,
+        "bytes": 7552,
+        "sha256": "ee78c96ba6ef38ab5a4a2816eb3717ce6dc2fe51c2ec30dc9cdd25077886d99d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-VU-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "WF": {
+      "country": "Wallis and Futuna",
+      "countryCode": "WF",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 3,
+        "rowCount": 30,
+        "bytes": 3971,
+        "sha256": "cc47443587e73d8eafb693dad7b493717687c71d3c09135004a0763372ad4982",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-WF-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "WS": {
+      "country": "Samoa",
+      "countryCode": "WS",
+      "continents": [
+        "Oceania"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 11,
+        "rowCount": 110,
+        "bytes": 13570,
+        "sha256": "b610fb8af50838598d1371bd7f5f56698d1864e6f25338f5a6b005aeb67bf842",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-oceania-WS-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "XK": {
+      "country": "Kosovo",
+      "countryCode": "XK",
+      "continents": [
+        "Europe"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 7,
+        "rowCount": 70,
+        "bytes": 8626,
+        "sha256": "db8746b4a5aec40e1c2e701395f15d36b656bb1b566f640fe596c67831107234",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-europe-XK-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "YE": {
+      "country": "Yemen",
+      "countryCode": "YE",
+      "continents": [
+        "Asia"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 22,
+        "rowCount": 220,
+        "bytes": 22919,
+        "sha256": "1db8c252cd640259274bbddd203c5bfdc369e46af7837734ef41ac3ac779aaac",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-asia-YE-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "YT": {
+      "country": "Mayotte",
+      "countryCode": "YT",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 17,
+        "rowCount": 170,
+        "bytes": 20832,
+        "sha256": "e2383afabcd129e659bb924bb5950f44541f769f0a5a934506d062475a327b29",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-YT-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ZA": {
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 9,
+        "rowCount": 90,
+        "bytes": 11045,
+        "sha256": "ae91482f383a646250d8a6d4525536ddfa1778dd445f77e267668126c9eec27d",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ZA-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ZM": {
+      "country": "Zambia",
+      "countryCode": "ZM",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 12139,
+        "sha256": "7a911a2bd60422fb7ce2e4839f9378937acf054a720930bfc40e7cd30c2f0ef2",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ZM-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    },
+    "ZW": {
+      "country": "Zimbabwe",
+      "countryCode": "ZW",
+      "continents": [
+        "Africa"
+      ],
+      "core": {
+        "generatedAt": "2026-08-03T20:38:59.083Z",
+        "startDate": "2026-08-03",
+        "endDate": "2026-08-13",
+        "locationCount": 10,
+        "rowCount": 100,
+        "bytes": 12177,
+        "sha256": "199845a347a0a37b88172faaab9e8a49120ea225a3ed6ddbe0d2104cbeaa9ee8",
+        "url": "https://github.com/PedroDiasSoares/WeatherFinder-Weather-Data/releases/download/snapshot-20260803T203859Z/weather-africa-ZW-core-10d-20260803T203859Z.json"
+      },
+      "extension": null
+    }
+  }
 }
